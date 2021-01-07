@@ -427,7 +427,7 @@ ul#paimaryContent2 a:hover{
 /* This is Archivement  Section start*/
 #ArchivementSection{
 	background:linear-gradient(#00000073,#00000073), 
-	linear-gradient(#00000073,#00000073), url(../Images/why-choose-us1.jpg);
+	linear-gradient(#00000073,#00000073), url(./images/why-choose-us1.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -601,7 +601,7 @@ section#projectPlan {
      overflow: hidden; 
 }
 #projectImage {
-    background: url(../Images/s02.jpg);
+    background: url(./images/s02.jpg);
     width: 50%;
     height: 500px;
     background-size: cover;
